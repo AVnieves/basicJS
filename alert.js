@@ -1,0 +1,1 @@
+alert("I'm JavaScript inserted by external script");
